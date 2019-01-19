@@ -1,3 +1,3 @@
 # git_demo-for-tests
 
-for tests remote comand
+for tests remote comand!
